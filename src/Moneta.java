@@ -1,5 +1,3 @@
-package serieg1;
-
 public class Moneta {
     private int x,y;
 

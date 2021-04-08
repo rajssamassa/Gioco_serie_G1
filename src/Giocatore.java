@@ -1,5 +1,3 @@
-package serieg1;
-
 public class Giocatore {
     private int x,y;
     private int patrimonio;

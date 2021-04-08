@@ -1,5 +1,3 @@
-package serieg1;
-
 public class TestPartita {
 
     public static void main(String[] args) {

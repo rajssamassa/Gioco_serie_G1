@@ -1,5 +1,3 @@
-package serieg1;
-
 import java.util.Scanner;
 
 public class Partita {

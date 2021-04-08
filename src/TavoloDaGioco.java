@@ -1,5 +1,3 @@
-package serieg1;
-
 public class TavoloDaGioco {
 
     private static final int DIMENSIONE = 10;
