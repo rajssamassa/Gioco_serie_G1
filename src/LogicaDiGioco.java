@@ -1,7 +1,3 @@
-package serieg1;
-
-import java.security.cert.X509CRL;
-
 public class LogicaDiGioco {
 
 

@@ -1,5 +1,3 @@
-package serieg1;
-
 public class Dado {
     public int TiraDado() {
         int r =(int)(Math.random() * 6 + 1);
